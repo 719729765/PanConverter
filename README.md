@@ -1,6 +1,6 @@
 # 网盘链接自动转换器
 
-![Uploading image.png…]()
+<img width="1000" height="667" alt="image" src="https://github.com/user-attachments/assets/e5bec9b6-5142-4adb-b4e1-a96bcff36108" />
 
 
 一款面向 Windows 的轻量级剪贴板辅助工具。复制网页、文章或 WordPress 编辑器中的内容后，程序会自动识别常见网盘链接，提取链接并整理成统一格式；识别到百度网盘提取码时，还会尝试把提取码补进链接参数。
