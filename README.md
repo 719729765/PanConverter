@@ -65,5 +65,5 @@ Automatically monitor the Windows clipboard, extract various netdisk links from 
 #### Steps | 操作步骤
 1. Clone the repository | 克隆仓库
 ```bash
-git clone https://github.com/你的用户名/PanConverter.git
+git clone https://github.com/719729765/PanConverter.git
 cd PanConverter
